@@ -58,7 +58,6 @@ function convertToBinary(btn) {
 
 //add the option to use the enter key instead of button
 decValue.addEventListener("keyup", function(event) {
-  console.log(event);
   // Number 13 is the "Enter" key on the keyboard
   if (event.keyCode === 13) {
     // Cancel the default action, if needed
