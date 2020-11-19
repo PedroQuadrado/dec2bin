@@ -79,7 +79,7 @@ body {
 }
 .on {
     height: 100px;
-    width: 80px;
+    width: 90px;
     outline: 10px solid #333;
     display: flex;
     flex-direction: column;
